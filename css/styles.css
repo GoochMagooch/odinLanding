@@ -4,3 +4,14 @@
     border: solid 2px #3882F6;
     color: white;
 }
+
+#first-button {
+    background-color: #3882F6;
+    color: white;
+}
+
+#second-button {
+    border: solid 2px white;
+    color: white;
+    background-color: #3882F6;
+}
