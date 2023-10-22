@@ -14,9 +14,7 @@ header {
 
 #image-divs {
     display: flex;
-    justify-content: space-around;
-    padding-left: 150px;
-    padding-right: 150px;
+    justify-content: space-between;
 }
 
 .second-div-item {
