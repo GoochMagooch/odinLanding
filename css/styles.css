@@ -1,3 +1,7 @@
+#second-div-h3 {
+    text-align: center;
+}
+
 #image-divs {
     display: flex;
     justify-content: space-around;
