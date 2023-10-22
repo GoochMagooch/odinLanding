@@ -1,17 +1,21 @@
 .second-div-item {
-    height: 24px;
-    width: 24px;
+    height: 100px;
+    width: 100px;
     border: solid 2px #3882F6;
     color: white;
+    border-radius: 8px;
 }
 
 #first-button {
     background-color: #3882F6;
     color: white;
+    border-radius: 5px;
+    border: 2px solid white;
 }
 
 #second-button {
     border: solid 2px white;
     color: white;
     background-color: #3882F6;
+    border-radius: 5px;
 }
