@@ -1,5 +1,11 @@
 * {
     font-family: 'Roboto', sans-serif;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+header {
+    display: flex;
 }
 
 #second-div-h3 {
