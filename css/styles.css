@@ -1,3 +1,10 @@
+#image-divs {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
 .second-div-item {
     height: 100px;
     width: 100px;
