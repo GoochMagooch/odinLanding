@@ -20,6 +20,20 @@
 header {
     display: flex;
     justify-content: flex-end;
+    background-color: #1F2937;
+}
+
+#hero {
+    background-color: #1F2937;
+}
+
+#hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    color: #f9faf8;
 }
 
 #second-div-h3 {
@@ -37,6 +51,15 @@ header {
     border: solid 2px #3882F6;
     color: white;
     border-radius: 8px;
+}
+
+#quote-section {
+    background-color: #E5E7EB;
+}
+
+#quote {
+    font-size: 36px;
+    color: #1f2937;
 }
 
 #first-button {
