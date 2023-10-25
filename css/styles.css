@@ -40,7 +40,7 @@ li {
 li a {
     font-size: 12px;
     color: #E5E7EB;
-    margin-right: 12px;
+    margin-left: 12px;
 }
 
 /* STYLES FOR HERO SECTION */
@@ -68,6 +68,11 @@ li a {
 .hero-p {
     font-size: 12px;
     color: #E5E7EB;
+    margin: 5px 0 5px 0;
+}
+
+.hero-text {
+    margin-right: 25px;
 }
 
 .hero-placeholder {
@@ -77,10 +82,12 @@ li a {
     background-color: #727177;
     width: 550px;
     height: 150px;
+    margin-left: 25px;
 }
 
 .hero-placeholder p {
     color: white;
+    font-size: 12px;
 }
 
 /* STYLES FOR IMAGE SECTION */
@@ -135,6 +142,7 @@ li a {
 .thor {
     text-align: end;
     width: 370px;
+    font-weight: bold;
 }
 
 /* STYLES FOR FOOTER */
