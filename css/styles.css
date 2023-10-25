@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+h1 {
+    color: #f9faf8;
+}
+
 #header-logo {
     font-size: 24px;
     color: #f9faf8;
@@ -38,10 +42,6 @@ header {
     color: #E5E7EB;
 }
 
-h1 {
-    color: #f9faf8;
-}
-
 #second-div {
     padding: 50px;
 }
@@ -75,6 +75,10 @@ h1 {
 #quote {
     font-size: 36px;
     color: #1f2937;
+}
+
+#thor {
+    text-align: end;
 }
 
 #first-button {
