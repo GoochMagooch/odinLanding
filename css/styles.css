@@ -4,6 +4,10 @@
     text-decoration: none;
 }
 
+p {
+    display: inline-block;
+}
+
 .navigation {
     background-color: #1F2937;
     padding: 0 15px 0 15px;
@@ -36,7 +40,7 @@ li a {
 .hero {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -49,7 +53,7 @@ li a {
     background-color: #3882F6;
     color: white;
     border-radius: 5px;
-    border: 1px solid white;
+    border: 1px solid #3882F6;
 }
 
 .hero p {
@@ -57,15 +61,15 @@ li a {
     color: #E5E7EB;
 }
 
-#second-div {
+.second-div {
     padding: 50px;
 }
 
-#second-div-h3 {
+.second-div-h3 {
     text-align: center;
 }
 
-#image-divs {
+.image-divs {
     display: flex;
     justify-content: space-around;
 }
