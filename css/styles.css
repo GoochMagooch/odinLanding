@@ -51,6 +51,10 @@ h1 {
     border-radius: 8px;
 }
 
+.subtext {
+    width: 100px;
+}
+
 #quote-section {
     background-color: #E5E7EB;
 }
