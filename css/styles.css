@@ -5,10 +5,6 @@
     text-decoration: none;
 }
 
-p {
-    display: inline-block;
-}
-
 /* STYLES FOR NAVBAR */
 .navigation {
     background-color: #1F2937;
@@ -92,16 +88,16 @@ li a {
 }
 
 /* STYLES FOR QUOTE SECTION */
-#quote-section {
+.quote-section {
     background-color: #E5E7EB;
 }
 
-#quote {
+.quote {
     font-size: 36px;
     color: #1f2937;
 }
 
-#thor {
+.thor {
     text-align: end;
 }
 
