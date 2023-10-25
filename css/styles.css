@@ -46,6 +46,7 @@ li a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 15px 0 15px;
 }
 
 .hero h1 {
@@ -108,6 +109,7 @@ li a {
 /* STYLES FOR QUOTE SECTION */
 .quote-section {
     background-color: #E5E7EB;
+    padding: 25px;
 }
 
 .quote {
@@ -122,12 +124,24 @@ li a {
 /* STYLES FOR FOOTER */
 footer {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.footer-div {
+    display: flex;
     justify-content: space-evenly;
     align-items: center;
     background-color: #3882F6;
     color: #f9faf8;
     height: 105px;
+    width: 700px;
     border-radius: 5px;
+}
+
+.call-action {
+    font-weight: bold;
 }
 
 .footer-button {
