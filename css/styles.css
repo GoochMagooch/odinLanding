@@ -5,6 +5,11 @@
     text-decoration: none;
 }
 
+button {
+    width: 90px;
+    height: 25px;
+}
+
 /* STYLES FOR NAVBAR */
 .navigation {
     background-color: #1F2937;
