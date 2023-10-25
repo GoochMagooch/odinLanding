@@ -61,20 +61,20 @@ li a {
     color: #E5E7EB;
 }
 
-.second-div {
+.image-div {
     padding: 50px;
 }
 
-.second-div-h3 {
+.image-div-h3 {
     text-align: center;
 }
 
-.image-divs {
+.images {
     display: flex;
     justify-content: space-around;
 }
 
-.second-div-item {
+.image-item {
     height: 100px;
     width: 100px;
     border: solid 2px #3882F6;
@@ -82,7 +82,7 @@ li a {
     border-radius: 8px;
 }
 
-.subtext {
+.image-subtext {
     width: 100px;
     text-align: center;
 }
