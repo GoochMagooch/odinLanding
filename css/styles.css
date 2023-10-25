@@ -85,16 +85,18 @@ li a {
 
 /* STYLES FOR IMAGE SECTION */
 .image-div {
-    padding: 50px;
+    padding: 30px 50px 50px 50px;
 }
 
 .image-div-h3 {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .images {
     display: flex;
     justify-content: space-around;
+    margin-bottom: 15px;
 }
 
 .image-item {
