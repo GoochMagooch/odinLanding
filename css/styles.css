@@ -1,16 +1,22 @@
 * {
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    text-decoration: none;
 }
 
 h1 {
     color: #f9faf8;
 }
 
-header {
-    display: flex;
-    justify-content: flex-end;
+.navigation {
     background-color: #1F2937;
+    padding: 0 15px 0 15px;
+}
+
+.navdiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
@@ -20,11 +26,15 @@ header {
     padding-left: 0;
 }
 
-.right-menu {
-    display: inline;
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
     font-size: 18px;
     color: #E5E7EB;
-    padding: 2px;
+    margin-right: 12px;
 }
 
 #hero {
