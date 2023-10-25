@@ -85,11 +85,11 @@ header {
     background-color: #3882F6;
     color: white;
     border-radius: 5px;
-    border: 2px solid white;
+    border: 1px solid white;
 }
 
 #second-button {
-    border: solid 2px white;
+    border: solid 1px white;
     color: white;
     background-color: #3882F6;
     border-radius: 5px;
