@@ -13,7 +13,7 @@ button {
 /* STYLES FOR NAVBAR */
 .navigation {
     background-color: #1F2937;
-    padding: 10px 100px 0 100px;
+    padding: 10px 100px 35px 100px;
 }
 
 .navdiv {
@@ -23,7 +23,7 @@ button {
 }
 
 .logo {
-    font-size: 18px;
+    font-size: 13px;
     margin-right: auto;
     padding-left: 0;
 }
@@ -38,7 +38,7 @@ li {
 }
 
 li a {
-    font-size: 12px;
+    font-size: 10px;
     color: #E5E7EB;
     margin-left: 12px;
 }
@@ -55,7 +55,7 @@ li a {
 
 .hero h1 {
     color: #f9faf8;
-    font-size: 28px;
+    font-size: 26px;
 }
 
 .hero-button {
@@ -68,7 +68,8 @@ li a {
 .hero-p {
     font-size: 12px;
     color: #E5E7EB;
-    margin: 5px 0 5px 0;
+    margin: 5px 0px 5px 0;
+    width: 250px;
 }
 
 .hero-text {
@@ -137,13 +138,14 @@ li a {
 .quote {
     font-size: 16px;
     color: #1f2937;
-    width: 370px;
+    width: 420px;
 }
 
 .thor {
     text-align: end;
-    width: 370px;
+    width: 420px;
     font-weight: bold;
+    font-size: 12px;
 }
 
 /* STYLES FOR FOOTER */
