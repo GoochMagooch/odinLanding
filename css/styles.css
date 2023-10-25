@@ -7,29 +7,30 @@ h1 {
     color: #f9faf8;
 }
 
-#header-logo {
-    font-size: 24px;
-    color: #f9faf8;
-    margin-right: auto;
-    padding-left: 0;
-}
-
-.header-item {
-    font-size: 18px;
-    color: #E5E7EB;
-    padding: 2px;
-}
-
 header {
     display: flex;
     justify-content: flex-end;
     background-color: #1F2937;
 }
 
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    margin-right: auto;
+    padding-left: 0;
+}
+
+.right-menu {
+    display: inline;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 2px;
+}
+
 #hero {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -52,7 +53,7 @@ header {
 
 #image-divs {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .second-div-item {
