@@ -152,12 +152,16 @@ footer {
     background-color: #3882F6;
     color: #f9faf8;
     height: 105px;
-    width: 700px;
+    width: 690px;
     border-radius: 5px;
 }
 
 .call-action {
     font-weight: bold;
+}
+
+.signup-text {
+    font-size: 12px;
 }
 
 .footer-button {
