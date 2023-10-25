@@ -4,10 +4,6 @@
     text-decoration: none;
 }
 
-h1 {
-    color: #f9faf8;
-}
-
 .navigation {
     background-color: #1F2937;
     padding: 0 15px 0 15px;
@@ -37,15 +33,16 @@ li a {
     margin-right: 12px;
 }
 
-#hero {
+.hero {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
-.hero-text {
-    width: 250px;
+.hero h1 {
+    color: #f9faf8;
+    font-size: 48px;
 }
 
 .hero-button {
@@ -55,7 +52,7 @@ li a {
     border: 1px solid white;
 }
 
-#hero p {
+.hero p {
     font-size: 18px;
     color: #E5E7EB;
 }
