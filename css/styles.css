@@ -24,9 +24,12 @@ button {
 
 .logo {
     font-size: 24px;
-    color: #f9faf8;
     margin-right: auto;
     padding-left: 0;
+}
+
+.logo a {
+    color: #f9faf8;
 }
 
 li {
