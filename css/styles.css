@@ -115,8 +115,9 @@ li a {
 }
 
 .image-subtext {
-    width: 100px;
+    width: 104px;
     text-align: center;
+    font-size: 12px;
 }
 
 /* STYLES FOR QUOTE SECTION */
