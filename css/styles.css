@@ -23,7 +23,7 @@ button {
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 18px;
     margin-right: auto;
     padding-left: 0;
 }
@@ -38,7 +38,7 @@ li {
 }
 
 li a {
-    font-size: 18px;
+    font-size: 12px;
     color: #E5E7EB;
     margin-right: 12px;
 }
@@ -50,11 +50,12 @@ li a {
     justify-content: space-between;
     align-items: center;
     padding: 0 15px 0 15px;
+    height: 200px;
 }
 
 .hero h1 {
     color: #f9faf8;
-    font-size: 48px;
+    font-size: 28px;
 }
 
 .hero-button {
@@ -65,7 +66,7 @@ li a {
 }
 
 .hero-p {
-    font-size: 18px;
+    font-size: 12px;
     color: #E5E7EB;
 }
 
@@ -113,10 +114,18 @@ li a {
 .quote-section {
     background-color: #E5E7EB;
     padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+}
+
+.quote-div {
+    width: 400px;
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 16px;
     color: #1f2937;
 }
 
