@@ -1,5 +1,6 @@
 * {
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
 #header-logo {
@@ -23,6 +24,13 @@ header {
 
 #hero {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-text {
+    width: 250px;
 }
 
 #hero p {
@@ -32,6 +40,10 @@ header {
 
 h1 {
     color: #f9faf8;
+}
+
+#second-div {
+    padding: 50px;
 }
 
 #second-div-h3 {
