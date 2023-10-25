@@ -1,3 +1,4 @@
+/* MAIN BODY STYLES */
 * {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -8,6 +9,7 @@ p {
     display: inline-block;
 }
 
+/* STYLES FOR NAVBAR */
 .navigation {
     background-color: #1F2937;
     padding: 0 15px 0 15px;
@@ -37,6 +39,7 @@ li a {
     margin-right: 12px;
 }
 
+/* STYLES FOR HERO SECTION */
 .hero {
     background-color: #1F2937;
     display: flex;
@@ -61,6 +64,7 @@ li a {
     color: #E5E7EB;
 }
 
+/* STYLES FOR IMAGE SECTION */
 .image-div {
     padding: 50px;
 }
@@ -87,6 +91,7 @@ li a {
     text-align: center;
 }
 
+/* STYLES FOR QUOTE SECTION */
 #quote-section {
     background-color: #E5E7EB;
 }
@@ -100,6 +105,7 @@ li a {
     text-align: end;
 }
 
+/* STYLES FOR FOOTER */
 footer {
     display: flex;
     justify-content: space-evenly;
