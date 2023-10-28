@@ -76,11 +76,7 @@ li a {
     margin-right: 25px;
 }
 
-.hero-placeholder {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #727177;
+.image-placeholder {
     width: 550px;
     height: 150px;
     margin-left: 25px;
