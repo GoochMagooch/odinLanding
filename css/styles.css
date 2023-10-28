@@ -94,7 +94,7 @@ li a {
 /* STYLES FOR IMAGE SECTION */
 .image-div {
     padding: 30px 180px 50px 180px;
-    background-color: darkslategrey;
+    background-color: darkgray;
 }
 
 .image-div-h3 {
@@ -156,7 +156,7 @@ footer {
     align-items: center;
     justify-content: center;
     height: 200px;
-    background-color: darkslategray;
+    background-color: darkgray;
 }
 
 .footer-div {
