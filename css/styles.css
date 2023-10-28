@@ -94,6 +94,7 @@ li a {
 /* STYLES FOR IMAGE SECTION */
 .image-div {
     padding: 30px 180px 50px 180px;
+    background-color: darkslategrey;
 }
 
 .image-div-h3 {
@@ -124,7 +125,7 @@ li a {
 
 /* STYLES FOR QUOTE SECTION */
 .quote-section {
-    background-color: #E5E7EB;
+    background-color: #727177;
     padding: 25px;
     display: flex;
     justify-content: center;
@@ -138,7 +139,7 @@ li a {
 
 .quote {
     font-size: 16px;
-    color: #1f2937;
+    color: white;
     width: 420px;
 }
 
@@ -155,6 +156,7 @@ footer {
     align-items: center;
     justify-content: center;
     height: 200px;
+    background-color: darkslategray;
 }
 
 .footer-div {
